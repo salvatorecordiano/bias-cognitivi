@@ -97,7 +97,7 @@ La tendenza a percepire la rima come più veritiera. Ad esempio, "una mela al gi
 
 La paura provata dagli individui di fronte al pensiero di poter perdere un'occasione sociale, una nuova esperienza, un investimento redditizio o un evento soddisfacente. Questa ansia sociale è caratterizzata dal desiderio di rimanere continuamente in contatto con ciò che fanno gli altri.
 
-### Memoria e ricordo
+## Memoria e ricordo
 
 Questi pregiudizi possono influenzare le scelte migliorando o compromettendo il richiamo di un ricordo o alterando il contenuto di un ricordo riferito.
 
@@ -145,7 +145,7 @@ Il "succo" di ciò che qualcuno ha detto è ricordato meglio del testo integrale
 
 Un elemento che spicca è più probabile che venga ricordato rispetto ad altri elementi.
 
-### Interviste e test utente
+## Interviste e test utente
 
 Questi pregiudizi possono influenzare direttamente il designer, durante le interviste o i test degli utenti, e possono cambiare l'esito della nostra ricerca. Influenzano il comportamento delle persone che intervistiamo o di quelle che testano i vostri prodotti e servizi.
 
@@ -229,7 +229,7 @@ La tendenza a difendere e sostenere lo status quo. Gli assetti sociali, economic
 
 La tendenza delle persone ad apparire più attraenti in gruppo che da sole.
 
-### About
+# About
 
 Lista dei pregiudizi cognitivi selezionati e organizzati da Laurence Vagner e Stéphanie Walter.
 Pagina creata da Geoffrey Crofte per UX in Lux e tradotta da Salvatore Cordiano.
