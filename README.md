@@ -229,7 +229,7 @@ La tendenza a difendere e sostenere lo status quo. Gli assetti sociali, economic
 
 La tendenza delle persone ad apparire più attraenti in gruppo che da sole.
 
-### Linee/Carte
+### About
 
 Lista dei pregiudizi cognitivi selezionati e organizzati da Laurence Vagner e Stéphanie Walter.
 Pagina creata da Geoffrey Crofte per UX in Lux e tradotta da Salvatore Cordiano.
