@@ -231,5 +231,4 @@ La tendenza delle persone ad apparire più attraenti in gruppo che da sole.
 
 # About
 
-Lista dei pregiudizi cognitivi selezionati e organizzati da Laurence Vagner e Stéphanie Walter.
-Pagina creata da Geoffrey Crofte per UX in Lux e tradotta da Salvatore Cordiano.
+Lista dei pregiudizi cognitivi selezionati e organizzati da Laurence Vagner e Stéphanie Walter. Questa pagina è stata tradotta in italiano da Salvatore Cordiano.
